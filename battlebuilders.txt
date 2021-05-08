@@ -1,0 +1,11 @@
+"Battle Builders"
+{
+	"base"			"base"
+	"title"			"Battle Builders"
+	"maps"			"^bb_"
+	"menusystem"	"1"
+	"settings"
+	{
+		
+	}
+}
